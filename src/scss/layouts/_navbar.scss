@@ -1,0 +1,6 @@
+.navbar {
+    border-bottom: 0.3rem solid rgba($primary-color, 0.8);
+    &-item:not(:last-child) {
+        margin-right: 0.7rem;
+    }
+}
